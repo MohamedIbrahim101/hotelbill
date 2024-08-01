@@ -1,0 +1,17 @@
+<div class="main" align="center">
+    <div mat-dialog-content class="details" align="center">
+        <h1 mat-dialog-title class="data"> {{data.name}} Quantity</h1>
+        </div>
+        <div   align="center">
+        
+        
+                    <input  class="input1" type="text"  placeholder="quantity" #box (keyup.enter)="myEvent(box.value)" (input)="changeName($event)"></div>
+                   <br>
+                   
+                   <div mat-dialog-action align="center">
+        <button class="byn" mat-raised-button color="accent" (click)="Ok()" >Ok</button>
+        </div>
+        <br>
+        <br>
+    </div>
+   

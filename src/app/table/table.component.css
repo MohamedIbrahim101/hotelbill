@@ -1,0 +1,263 @@
+table {
+    width: 100%;
+  }
+  .table2{
+    width: 100%;
+  }
+  .table1{
+    width: 100%;
+  }
+  .mat-form-field {
+    font-size: 14px;
+    width: 30%;
+    margin-left: 60px;
+    border: 1px solid black;
+  }
+  .search{
+    border: 2px solid black;
+  }
+  .button{
+    width: 100%;
+  }
+  .filter{
+    margin-left: 10px;
+    width: 1500px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 3px solid black;
+    display: flex;
+  }
+th{
+  font-size: 15px;
+ font-weight: bold;
+ color: red;
+ text-decoration: underline;
+ font-style:fantasy;
+}
+.example-button-row{
+margin-left: 100px;
+}
+.kot{
+  border: 3px solid black;
+
+ 
+}
+.print{
+
+border: 3px solid black;
+}
+.table3{
+ width: 100%;
+}
+.size{
+
+  margin-left:450px;
+
+  font-weight: bold;
+  font-size: 18px;
+  width: 30px;
+}
+.qu{
+  margin-left: 400px;
+
+  font-weight: bold;
+  font-size: 18px;
+}
+.pro{
+  margin-left: 95px;
+  
+  font-weight: bold;
+  font-size: 18px;
+}
+.option:hover{
+  background-color:grey;
+}
+td{
+  font-weight:bold ;
+}
+.butt{
+  width: 100%;
+}
+#two{
+margin-left: 40px;
+border: 3px solid black;
+}
+#one{
+  margin-left: 680px;
+  border: 3px solid black;
+}
+@media (min-width:320px) and (max-width:480px) {
+  /* .kot{
+    border: 3px solid black;
+    margin-left: 100px;
+   
+  }
+  .print{
+  margin-right: 320px;
+  border: 3px solid black;
+  } */
+  .filter{
+    margin-left: 0px;
+    width:95%;
+    margin-left: 4px;
+  }
+.pro{
+  margin-left: 0px;
+  font-size: 12px;
+}
+.qu{
+  margin-left: 0px;
+  font-size: 12px;
+}
+.size{
+  margin-left: 0px;
+  font-size: 12px;
+}
+td{
+  text-align: center;
+}
+table {
+  width: 100%;
+}
+#two{
+  margin-left: 50px;
+  border: 1px solid black;
+  }
+  #one{
+    margin-left: -10px;
+    border: 1px solid black;
+  }
+  .table1{
+    width: 100%;
+  }
+}
+@media (min-width:480px) and (max-width:768px){
+  /* .kot{
+    border: 3px solid black;
+    margin-left: 200px;
+    
+   
+  }
+  .print{
+  margin-right: 320px;
+  border: 3px solid black;
+  } */
+  .filter{
+    margin-left: 0px;
+    width:98%;
+    margin-left: 3px;
+  }
+  .pro{
+    margin-left: 0px;
+    font-size: 15px;
+  }
+  .qu{
+    margin-left: 0px;
+    font-size: 15px;
+  }
+  .size{
+    margin-left: 0px;
+    font-size: 15px;
+  }
+  td{
+    text-align: center;
+  }
+  table {
+    width: 100%;
+  }
+  #two{
+    margin-left: 50px;
+    border: 1px solid black;
+    }
+    #one{
+      margin-left: -10px;
+      border: 1px solid black;
+    }
+    .table1{
+      width: 100%;
+    }
+}
+@media (min-width:768px) and (max-width:1024px){
+  .filter{
+    margin-left: 0px;
+    width:98%;
+    margin-left: 3px;
+  }
+  .pro{
+    margin-left: 0px;
+    font-size: 15px;
+  }
+  .qu{
+    margin-left: 0px;
+    font-size: 15px;
+  }
+  .size{
+    margin-left: 0px;
+    font-size: 15px;
+  }
+  td{
+    text-align: center;
+  }
+  table {
+    width: 100%;
+  }
+  #two{
+    margin-left: 50px;
+    border: 1px solid black;
+    }
+    #one{
+      margin-left: -10px;
+      border: 1px solid black;
+    }
+    .table1{
+      width: 100%;
+    }
+}
+@media (min-width:1024px) and (max-width:1440px){
+  .filter{
+    margin-left: 0px;
+    width:98%;
+    margin-left: 3px;
+  }
+  .pro{
+    margin-left: 0px;
+    font-size: 18px;
+  }
+  .qu{
+    margin-left: 0px;
+    font-size: 18px;
+  }
+  .size{
+    margin-left: 0px;
+    font-size: 18px;
+  }
+  td{
+    text-align: center;
+  }
+  table {
+    width: 100%;
+  }
+  #two{
+    margin-left: 50px;
+    border: 1px solid black;
+    }
+    #one{
+      margin-left: -10px;
+      border: 1px solid black;
+    }
+    .table1{
+      width: 100%;
+    }
+}
+@media (min-width:1440px) {
+ .kot{
+    border: 3px solid black;
+    margin-left: 500px;
+    
+   
+  }
+  .print{
+  margin-right: 320px;
+  border: 3px solid black;
+  }
+}
